@@ -12,6 +12,10 @@
  $samsung = new Mobile;
  $samsung->model;
  $samsung->showModel("A8");
+ echo "<br/>";
+
+ $oppo = new Mobile;
+ $oppo->showModel("v17 pro");
 
 
 
